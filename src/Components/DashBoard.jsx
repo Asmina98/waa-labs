@@ -20,7 +20,6 @@ const DashBoard = ()=>{
   }
   
   const handleTitleChange=(e)=>{
-    console.log(e.target.value);
    setNewTitle(e.target.value);
   }
 
